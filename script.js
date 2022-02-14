@@ -15,10 +15,10 @@ console.log(result);
 // 3
 const pen = 4;
 const sumPenOne = 5.25;
-
-console.log(pen * sumPenOne);
+const calcResultOne = pen * sumPenOne;
 
 const pencil = 6;
 const sumPencilOne = 3.5;
+const calcResultTwo = pencil * sumPencilOne;
 
-console.log(pencil * sumPencilOne);
+console.log(calcResultOne + calcResultTwo);
