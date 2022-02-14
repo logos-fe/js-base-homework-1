@@ -2,7 +2,7 @@
 let city = 'Kyiv';
 city = 'Lviv';
 
-let address = 'Kyiv';
+let address = city;
 
 console.log(address);
 
